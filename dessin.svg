@@ -1,5 +1,10 @@
-<svg width="200" height="100">
-  <text x="100" y="80" font-size="60" text-anchor="middle"
-        font-weight="bold" fill="none" stroke="black"
-        stroke-dasharray="300" stroke-dashoffset="200">Salut</text>
+<svg class="smileyFace" width="300" height="300" viewbox="0 0 300 300">
+    <circle class="face" cx="150" cy="150" r="130" fill="yellow" stroke="black"/>
+    <circle class="left-eye" cx="100" cy="110" r="24" />
+    <circle class="right-eye" cx="200" cy="110" r="24" />
+    <path class="mouth" d="M70,200,Q150,240 200 200"/>
+    <text font-size="50" x="115" y="170">👃</text>
+    <
+
+
 </svg>
