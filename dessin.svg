@@ -1,10 +1,13 @@
-<svg class="smileyFace" width="300" height="300" viewbox="0 0 300 300">
+<svg class="smileyFace" width="400" height="400" viewbox="0 0 500 200">
     <circle class="face" cx="150" cy="150" r="130" fill="yellow" stroke="black"/>
     <circle class="left-eye" cx="100" cy="110" r="24" />
     <circle class="right-eye" cx="200" cy="110" r="24" />
     <path class="mouth" d="M70,200,Q150,240 200 200"/>
     <text font-size="50" x="115" y="170">👃</text>
-    <
-
-
+    <line x1="50" y1="100" x2="250" y2="100" stroke="black"
+        stroke-width="30" stroke-linecap="round" />
+    <line x1="140" y1="250" x2="140" y2="320" stroke="yellow"
+        stroke-width="30" stroke-linecap="round" />
+      <line x1="140" y1="336" x2="140" y2="330" stroke="red"
+        stroke-width="80" stroke-linecap="square" />
 </svg>
