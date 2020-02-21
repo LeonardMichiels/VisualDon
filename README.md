@@ -2,4 +2,4 @@
 cours VisualDon HEIG-VD
 
 ## Exercices
-[link to exercises](https://github.com/LeonardMichiels/VisualDon/exercices)
+[link to exercises](https://github.com/LeonardMichiels/VisualDon/tree/master/exercices)
