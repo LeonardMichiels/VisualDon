@@ -3,8 +3,7 @@
     <circle class="face" cx="200" cy="150" r="130" fill="yellow" stroke="black"/>
     <circle class="left-eye" cx="150" cy="110" r="24" />
     <circle class="right-eye" cx="250" cy="110" r="24" />
-    <path class="mouth" d="M160,200,Q200,260 260 200"/>
-    <text font-size="50" x="165" y="170">👃</text>
+        <text font-size="50" x="165" y="170">👃</text>
     <line x1="270" y1="75" x2="240" y2="70" stroke="black"
         stroke-width="10" stroke-linecap="round" />
     <line x1="120" y1="75" x2="150" y2="70" stroke="black"
@@ -13,6 +12,8 @@
         stroke-width="30" stroke-linecap="round" />
       <line x1="200" y1="335" x2="200" y2="335" stroke="red"
         stroke-width="80" stroke-linecap="square" />
-    <text font-family="arial" font-size="30" x="200" y="320">Me Gusta !</text>
+        <path stroke="black" stroke-width="5" fill="none" d="M150,230 Q128,128 230,225" />
+
+    <text font-family="arial" font-size="30" x="200" y="320">No Me Gusta !</text>
 
 </svg>
