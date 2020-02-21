@@ -8,6 +8,6 @@
         stroke-width="30" stroke-linecap="round" />
     <line x1="140" y1="250" x2="140" y2="320" stroke="yellow"
         stroke-width="30" stroke-linecap="round" />
-      <line x1="140" y1="336" x2="140" y2="330" stroke="red"
+      <line x1="140" y1="336" x2="140" y2="337" stroke="red"
         stroke-width="80" stroke-linecap="square" />
 </svg>
