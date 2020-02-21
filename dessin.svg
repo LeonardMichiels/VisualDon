@@ -1,13 +1,18 @@
-<svg class="smileyFace" width="400" height="400" viewbox="0 0 500 200">
-    <circle class="face" cx="150" cy="150" r="130" fill="yellow" stroke="black"/>
-    <circle class="left-eye" cx="100" cy="110" r="24" />
-    <circle class="right-eye" cx="200" cy="110" r="24" />
-    <path class="mouth" d="M70,200,Q150,240 200 200"/>
-    <text font-size="50" x="115" y="170">👃</text>
-    <line x1="50" y1="100" x2="250" y2="100" stroke="black"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" class="smileyFace" width="400" height="400" viewbox="0 0 500 500">
+    <rect class="bckgrd" x="0" y="0" width="400" height="400" fill="steelblue" />
+    <circle class="face" cx="200" cy="150" r="130" fill="yellow" stroke="black"/>
+    <circle class="left-eye" cx="150" cy="110" r="24" />
+    <circle class="right-eye" cx="250" cy="110" r="24" />
+    <path class="mouth" d="M160,200,Q200,260 260 200"/>
+    <text font-size="50" x="165" y="170">👃</text>
+    <line x1="270" y1="75" x2="240" y2="70" stroke="black"
+        stroke-width="10" stroke-linecap="round" />
+    <line x1="120" y1="75" x2="150" y2="70" stroke="black"
+        stroke-width="10" stroke-linecap="round" />
+    <line x1="200" y1="250" x2="200" y2="320" stroke="yellow"
         stroke-width="30" stroke-linecap="round" />
-    <line x1="140" y1="250" x2="140" y2="320" stroke="yellow"
-        stroke-width="30" stroke-linecap="round" />
-      <line x1="140" y1="336" x2="140" y2="337" stroke="red"
+      <line x1="200" y1="335" x2="200" y2="335" stroke="red"
         stroke-width="80" stroke-linecap="square" />
+    <text font-family="arial" font-size="30" x="200" y="320">Me Gusta !</text>
+
 </svg>
