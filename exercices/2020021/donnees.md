@@ -10,4 +10,3 @@ La topologie du lac Michigan, c'est a dire la profondeur ainsi que les contours 
 shx, shx.xml,shp,sbx,sbn,prj et dbf
 ## Comment les visualiser?
 https://mapshaper.org/ 
-
