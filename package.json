@@ -9,8 +9,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "preview": "live-server dist/",
+    "build": "webpack",
+    "watch": "webpack --mode=development --watch"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LeonardMichiels/VisualDon.git"
